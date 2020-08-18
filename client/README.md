@@ -1,7 +1,7 @@
 in this example we have server and client folder\
 the server use the json-server to serve the frontend\
 the client use next.js to implement\
-set the server to port 3000 and try to set client to 3001\
+set the server to port 3000 and try to set client to 3001
 
 
 React Hook and Next.js\
