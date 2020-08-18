@@ -40,5 +40,5 @@ goto pages folder and create the delete.js file\
 use Router.push to reload itself after delete
 
 You can use the Next.js directly connected to the DB by\
-https://vercel.com/guides/deploying-next-and-mysql-with-vercel\
-const mysql = require('serverless-mysql')
+https://vercel.com/guides/deploying-next-and-mysql-with-vercel => const mysql = require('serverless-mysql')
+(not show in this example)
