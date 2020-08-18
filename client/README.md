@@ -14,9 +14,9 @@ Get data list from server\
 (To test it, plase make sure the server port is correct)\
 create a file get.js under the pages folder\
 install the module npm install --save axios\
-reference: https://nextjs.org/docs/api-reference/data-fetching/getInitialProps\
-http://localhost:3001/get\
-for link with query => http://localhost:3001/get?abc=10\
+reference: https://nextjs.org/docs/api-reference/data-fetching/getInitialProps
+http://localhost:3001/get
+for link with query => http://localhost:3001/get?abc=10
 you can get the abc=10 by the ctx inside "Get.getInitialProps = async (ctx)"\
 that's ctx.query.abc\
 Add <Link> tag and switch to the details page, use <a> tag will be poor UX
