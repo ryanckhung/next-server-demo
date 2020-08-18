@@ -19,7 +19,7 @@ http://localhost:3001/get\
 for link with query => http://localhost:3001/get?abc=10\
 you can get the abc=10 by the ctx inside "Get.getInitialProps = async (ctx)"\
 that's ctx.query.abc\
-Add Link tag and switch to the details page
+Add <Link> tag and switch to the details page, use <a> tag will be poor UX
 
 Get data details from server\
 goto pages\ folder and create getdetails.js\
