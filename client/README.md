@@ -44,5 +44,5 @@ https://vercel.com/guides/deploying-next-and-mysql-with-vercel => const mysql = 
 (not show in this example)\
 create the \lib\db.js => 
 then create the api under \pages\api\xxx.js => 
-then goto the page and use getInitialProps to fetch the data
+then goto the page and use getInitialProps to fetch the data through \page\api\xxx
 
